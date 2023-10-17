@@ -1,11 +1,8 @@
 {
   "name": "moazirfan",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "bin": {
     "moazirfan": "index.js",
     "moaz": "index.js"
-  },
-  "dependencies": {
-    "moazirfan": "1.2.0"
   }
 }
